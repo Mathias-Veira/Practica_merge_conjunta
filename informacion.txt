@@ -1,0 +1,16 @@
+Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear y gestionar cambios en el código. Sus características principales incluyen:
+
+Historial completo de cambios.
+Repositorios distribuidos para mejorar la colaboración.
+Ramas para trabajar en nuevas características de forma aislada.
+Fusiones para integrar cambios.
+Rápido y seguro.
+
+Comandos básicos:
+
+git init: Inicializa un repositorio.
+git clone [url]: Clona un repositorio.
+git add [archivo]: Añade un archivo.
+git commit -m "mensaje": Confirma cambios.
+git push: Envía cambios al remoto.
+git pull: Actualiza desde el remoto.
